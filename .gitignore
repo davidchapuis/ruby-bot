@@ -1,0 +1,7 @@
+# .gitignore
+.bundle/
+*.gem
+.log
+tmp/
+.env
+response_body.html
